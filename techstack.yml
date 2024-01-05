@@ -1,7 +1,8 @@
 repo_name: zaknbur/python_for_geosciences
 report_id: 440f09d9e3dcfdaf6996e53bbea69f8f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:36:00+00:00'
+timestamp: '2024-01-05T08:35:28+00:00'
 requested_by: koldunovn
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/zaknbur/python_for_geosciences
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/python_for_geosciences/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Nikolay Koldunov
   last_updated_on: 2017-10-30 12:06:22.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/python_for_geosciences
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/python_for_geosciences/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Nikolay Koldunov
   last_updated_on: 2017-10-30 12:06:22.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zaknbur/python_for_geosciences
   detection_source: Repo Metadata
 - name: Requests
   description: Elegant and simple HTTP library for Python
@@ -67,6 +73,7 @@ tools:
   category: Application Utilities
   sub_category: Data Transfer
   image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/zaknbur/python_for_geosciences/blob/master/environment.yml
   detection_source: environment.yml
   last_updated_by: Nikolay Koldunov
   last_updated_on: 2017-10-30 12:06:22.000000000 Z
